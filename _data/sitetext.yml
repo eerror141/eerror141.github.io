@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our beautiful project!
-    text: Damsel in distress: a recurrent pattern in movies?
+    text: Damsel in distress ?
     button: Tell Me More
     buttonlink: "#services"
 
