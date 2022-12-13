@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our beautiful project!
-    text: Damsel in distress, recurrent pattern movies ?
+    title: Damsel in distress !
+    text: A recurrent pattern in movies ?
     button: Tell Me More
     buttonlink: "#services"
 
