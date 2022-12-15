@@ -31,6 +31,11 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
         
+  services:
+    title: "Services"
+    text: "Introduction"
+    section: services      
+        
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
