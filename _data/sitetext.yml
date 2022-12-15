@@ -30,7 +30,12 @@ en: &DEFAULT_EN
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
-
+        
+  Friends:
+    title: "Friends"
+    text: "Introduction"
+    section: Friends   
+        
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
