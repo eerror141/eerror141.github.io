@@ -114,7 +114,8 @@ en: &DEFAULT_EN
             #icon: fab fa-facebook-f
           #- url: https://linkedin.com
             #icon: fab fa-linkedin-in
-      - name: "Dormann Alexia"
+      - name: "ormann Alexia"
+        first: "D"
         role: "SV student"
         image: #assets/img/team/2.jpg
         #social:
@@ -124,7 +125,8 @@ en: &DEFAULT_EN
             #icon: fab fa-facebook-f
           #- url: https://linkedin.com
             #icon: fab fa-linkedin-in
-      - name: "Wifak Imane"
+      - name: "wifak Imane"
+        first: "W"
         role: "SV student"
         image: #assets/img/team/500x500.jpg
         #social:
@@ -134,7 +136,8 @@ en: &DEFAULT_EN
             #icon: fab fa-facebook-f
           #- url: https://linkedin.com
             #icon: fab fa-linkedin-in
-      - name: "Theo Maffei"
+      - name: "affei Theo"
+        first: "M"
         role: "SV student"
         image: #assets/img/team/500x500.jpg
         #social:
