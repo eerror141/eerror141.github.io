@@ -125,7 +125,7 @@ en: &DEFAULT_EN
             #icon: fab fa-facebook-f
           #- url: https://linkedin.com
             #icon: fab fa-linkedin-in
-      - name: "wifak Imane"
+      - name: "ifak Imane"
         first: "W"
         role: "SV student"
         image: #assets/img/team/500x500.jpg
