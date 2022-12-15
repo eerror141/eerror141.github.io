@@ -31,10 +31,10 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
         
-  services:
-    title: "Services"
+  Friends:
+    title: "Friends"
     text: "Introduction"
-    section: services      
+    section: Friends   
         
   portfolio:
     title: "Portfolio"
