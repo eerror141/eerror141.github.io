@@ -15,6 +15,10 @@ en: &DEFAULT_EN
     text: A recurrent pattern in movies ?
     button: Tell Me More
     buttonlink: "#team"
+  
+  introduction:
+    title: 
+    section: introduction
 
   team:
     title: "OUR AMAZING TEAM"
