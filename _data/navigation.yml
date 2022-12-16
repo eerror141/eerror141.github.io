@@ -26,4 +26,4 @@ en-AU:
 es-ES:
   <<: *DEFAULT_EN
 es-CO:
-  <<: *DEFAULT_ES
+  <<: *DEFAULT_EN
