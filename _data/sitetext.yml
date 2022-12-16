@@ -14,15 +14,11 @@ en: &DEFAULT_EN
     title: Damsel in distress !
     text: A recurrent pattern in movies ?
     button: Tell Me More
-    buttonlink: "#introduction"
-
-  introduction:
-    section: introduction  
+    buttonlink: "#team"
 
   team:
     title: "OUR AMAZING TEAM"
     text: "We are four SV students."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "en M'Rad Imane"
@@ -94,4 +90,4 @@ en-AU:
 es-ES:
   <<: *DEFAULT_EN
 es-CO:
-  <<: *DEFAULT_ES
+  <<: *DEFAULT_EN
