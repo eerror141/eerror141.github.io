@@ -19,6 +19,10 @@ en: &DEFAULT_EN
   introduction:
     title: 
     section: introduction
+  
+  story_example:
+    title:
+    section: story_example
 
   team:
     title: "OUR AMAZING TEAM"
