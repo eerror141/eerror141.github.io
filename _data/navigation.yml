@@ -13,10 +13,10 @@ en: &DEFAULT_EN
   nav:
     - title: "Introduction"
       section: introduction
-    - title: "Team"
-      section: team
     - title: "Story example"
       section: story-ex
+    - title: "Team"
+      section: team
 en-US:
   <<: *DEFAULT_EN
 en-CA:
