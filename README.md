@@ -1,11 +1,11 @@
 
-A Glimpse of our data...
+A Glimpse of our data... Need to center section
 
 **Data in numbers** (# movies, # charc F, #charc M)
 
 Line plot of fraction of female + male character by year + diff?? 
 
-Top 10 genres for men/women
+Top 10 genres for men/women ✅ Just need to center
 
 Difference percentage by few genres, choice of two for comparaison by 5 years
 
