@@ -29,4 +29,16 @@ Shape words, show evolution + genres movies
 
 Maybe prediction
 
-Conclusion
+# Conclusion
+
+Summary finding
+
+Scrolling graph
+
+Link to small number of women working behind the scene in cinema  https://www.weforum.org/agenda/2022/03/number-of-women-in-film-industry-rises-slowly/
+
+-> need more women for it to evolve faster
+
+Limitations/Extensions of method (accuracy, ideally keep context, maybe should have cluster sentence concerning F/M charcaters according to topic)
+
+
