@@ -1,7 +1,7 @@
 
-A Glimpse of our data... Is emoji good ? Which one ??
+## **A Glimpse of our data...** Is emoji good ? Which one ??
 
-**Data in numbers** (# movies, # charc F, #charc M)
+Data in numbers (# movies, # charc F, #charc M)
 
 Line plot of fraction of female + male character by year + diff?? 
 
@@ -13,7 +13,7 @@ Sentence linking -> finish, ah , nooo! Less F in movies but what do they actuall
 
 Ah pour faire ça on utlise nlp->expliquer par example Story example
 
-Data analysis
+## **Data analysis**
 
 Fraction of mentions F 
 
