@@ -1,11 +1,11 @@
 
-## **A Glimpse of our data...** Is emoji good ? Which one ??
+## **A Glimpse of our data...**
 
 Data in numbers (# movies, # charc F, #charc M)
 
 Line plot of fraction of female + male character by year + diff?? 
 
-Top 10 genres for men/women ✅ center title of graph ?
+Top 10 genres for men/women ✅
 
 Difference percentage by few genres, choice of two for comparaison by 5 years
 
