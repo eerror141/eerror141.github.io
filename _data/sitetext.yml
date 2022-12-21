@@ -19,10 +19,18 @@ en: &DEFAULT_EN
   introduction:
     title: 
     section: introduction
+    
+  Glimpse of data:
+    title: 
+    section: glimps
   
   story_example:
     title:
     section: story_example
+    
+  Data Analysis:
+    title: 
+    section: data_analysis
 
   team:
     title: "OUR AMAZING TEAM"
