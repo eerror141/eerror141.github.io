@@ -13,8 +13,12 @@ en: &DEFAULT_EN
   nav:
     - title: "Introduction"
       section: introduction
+    - title: "Glimpse of data"
+      section: glimps
     - title: "Story example"
       section: story-ex
+    - title: " Data Analsis"
+      section: data_analysis
     - title: "Team"
       section: team
 en-US:
