@@ -14,11 +14,11 @@ en: &DEFAULT_EN
     - title: "Introduction"
       section: introduction
     - title: "Glimpse of data"
-      section: glimps
+      section: glimpse
     - title: "Story example"
       section: story-ex
     - title: " Data Analysis"
-      section: data_analysis
+      section: analysis
     - title: "Team"
       section: team
 en-US:
