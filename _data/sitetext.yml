@@ -34,7 +34,7 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "We are four SV students."
+    text:
     section: team
     people:
       - name: "en M'Rad Imane"
