@@ -3,7 +3,7 @@
 
 Data in numbers (# movies, # charc F, #charc M)
 
-Line plot of fraction of female + male character by year + diff?? 
+Line plot of fraction of female + male character by year ✅
 
 Top 10 genres for men/women ✅
 
