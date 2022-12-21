@@ -1,5 +1,5 @@
 
-A Glimpse of our data... 
+A Glimpse of our data... Is emoji good ?
 
 **Data in numbers** (# movies, # charc F, #charc M)
 
