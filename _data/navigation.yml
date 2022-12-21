@@ -17,7 +17,7 @@ en: &DEFAULT_EN
       section: glimps
     - title: "Story example"
       section: story-ex
-    - title: " Data Analsis"
+    - title: " Data Analysis"
       section: data_analysis
     - title: "Team"
       section: team
