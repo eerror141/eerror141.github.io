@@ -5,7 +5,7 @@ A Glimpse of our data... Is emoji good ? Which one ??
 
 Line plot of fraction of female + male character by year + diff?? 
 
-Top 10 genres for men/women ✅ 
+Top 10 genres for men/women ✅ center title of graph ?
 
 Difference percentage by few genres, choice of two for comparaison by 5 years
 
