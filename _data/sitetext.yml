@@ -32,6 +32,10 @@ en: &DEFAULT_EN
     title: 
     section: analysis
 
+  conclusion:
+    title: 
+    section: conclusion
+
   team:
     title: "OUR AMAZING TEAM"
     text:

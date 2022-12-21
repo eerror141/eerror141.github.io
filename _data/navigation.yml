@@ -17,8 +17,10 @@ en: &DEFAULT_EN
       section: glimpse
     - title: "Story example"
       section: story-ex
-    - title: " Data Analysis"
+    - title: "Data Analysis"
       section: analysis
+    - title: "Conclusion"
+      section: conclusion
     - title: "Team"
       section: team
 en-US:
