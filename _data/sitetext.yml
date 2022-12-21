@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     
   Glimpse of data:
     title: 
-    section: glimps
+    section: glimpse
   
   story_example:
     title:
@@ -30,7 +30,7 @@ en: &DEFAULT_EN
     
   Data Analysis:
     title: 
-    section: data_analysis
+    section: analysis
 
   team:
     title: "OUR AMAZING TEAM"
