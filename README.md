@@ -19,9 +19,10 @@ Ah pour faire ça on utlise nlp->expliquer par example Story example
 
 ## **Data analysis**
 
-Fraction of mentions F 
+Fraction of mentions F ✅
 
-Activeness evolution -> not significative
+Activeness evolution -> not significative ✅ <br>
+Comment both graphs
 
 What do they actually do? -> top words overall -> show that cluster into categories
 
