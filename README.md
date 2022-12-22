@@ -13,8 +13,7 @@ Top 10 genres for men/women ✅
 
 Difference percentage by few genres, choice of two for comparaison by 5 years
 
-Sentence linking -> finish, ah , nooo! Less F in movies but what do they actually do?
-
+Sentence linking -> finish, ah , nooo! Less F in movies but what do they actually do? <br>
 Ah pour faire ça on utlise nlp->expliquer par example Story example
 
 ## **Data analysis**
