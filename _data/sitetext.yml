@@ -37,7 +37,7 @@ en: &DEFAULT_EN
     section: conclusion
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "<br> OUR AMAZING TEAM </br>"
     text:
     section: team
     people:
