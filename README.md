@@ -1,5 +1,6 @@
 # Introduction
-Write intro ✅
+Write intro ✅ <br>
+Correct italic sentences!
 
 Add plot showing 2021 graphs ✅
 
