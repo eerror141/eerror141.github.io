@@ -31,9 +31,9 @@ Maybe prediction
 
 # Conclusion
 
-Summary finding
+Summarize finding
 
-Scrolling graph
+Scrolling graph ✅
 
 Link to small number of women working behind the scene in cinema  https://www.weforum.org/agenda/2022/03/number-of-women-in-film-industry-rises-slowly/
 
