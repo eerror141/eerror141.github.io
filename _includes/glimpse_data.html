@@ -3,7 +3,7 @@
 	<div class="container">
 		<center>
 		<h1> 🔎 <b>A glimpse of our data...</b> </h1>
-		<h4 style="padding-left: 55px; padding-right: 55px; align="justify";> Data in numbers </h1>
+		<h4 style="padding-left: 55px; padding-right: 55px; align="justify";> Data in numbers </h4>
 		{% include counter.html %}
 		<h4 style="padding-left: 55px; padding-right: 55px;padding-top: 30px;"; align="justify;"> <b>Women are underrepresented in movies</b> </h4>
 		<p style="padding-left: 55px; padding-right: 55px;"; align="justify"> We've seen that the large majority of movies include a higher fraction of male compared to female characters at least in the top grossing movies released in 2021. But, has it always been the case and is the trend changing? As we can observe on the graph, this inequality has always been present. Indeed, the fraction of female characters varies between 25% and 36%. Interestingly, we can see a slight increasing trend from the 80s coinciding with the slow improvement of women rights since the late 70s.</p>
@@ -12,7 +12,9 @@
 		<p style="padding-left: 55px; padding-right: 55px"; align="justify";>
 	 	In this plot, we observe that the top 10 genres featuring female or male characters are different. We notice that some genres are shared such as drama, thriller and romantic comedy but others are completely absent for the other gender. Additionally, some of the genres are very stereotypical. For example, 4 out of 10 genres for female characters are related to romance or family whereas male characters are much more present in action and science fiction movies. </p>
 		{% include top10genres_barplot.html %}
+		<div style = style="padding-left: 55px; padding-right: 55px;"; align="justify">								   
 		{% include diff_percentage.html %}
+		</div>									      
 		<p style="padding-left: 55px; padding-right: 55px"; align="justify";> Insert <em>Difference percentage by few genres, choice of two for comparaison by 5 years</em> </p>
 		</center>
 	</div>
