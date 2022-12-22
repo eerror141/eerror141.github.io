@@ -5,13 +5,13 @@ Add plot showing 2021 graphs ✅
 
 ## **A Glimpse of our data...**
 
-Data in numbers (# movies, # charc F, #charc M)
+Data in numbers (# movies, # charc F, #charc M) ✅
 
 Line plot of fraction of female + male character by year ✅
 
 Top 10 genres for men/women ✅
 
-Difference percentage by few genres, choice of two for comparaison by 5 years
+Difference percentage by few genres, choice of two for comparaison by 5 years ✅
 
 Sentence linking -> finish, ah , nooo! Less F in movies but what do they actually do? <br>
 Ah pour faire ça on utlise nlp->expliquer par example Story example
