@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: introduction
     - title: "Glimpse of data"
       section: glimpse
-    - title: "Story example"
+    - title: "NLP pipeline"
       section: story-ex
     - title: "Data Analysis"
       section: analysis
