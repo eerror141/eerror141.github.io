@@ -42,17 +42,17 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "<b> en M'Rad Imane </b>"
-        first: "<b> B </b>"
+        first: "<b> B</b>"
         role: "SV student 🧪🏀"
       - name: "<b> ormann Alexia </b>"
-        first: "<b> D </b>"
-        role: "SV student 🐈🧬"
+        first: "<b> D</b>"
+        role: "SV student🧬🐈"
       - name: "<b> ifak Imane </b>"
-        first: "<b> W </b>"
+        first: "<b> W</b>"
         role: "SV student 🔬🌊"
       - name: "<b> affei Theo </b>"
-        first: "<b> M </b>"
-        role: "SV student 🍝🧬"
+        first: "<b> M</b>"
+        role: "SV student 🥽🍝"
 
   footer:
     social:
