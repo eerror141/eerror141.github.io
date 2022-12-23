@@ -41,16 +41,16 @@ en: &DEFAULT_EN
     text:
     section: team
     people:
-      - name: "<b> en M'Rad Imane </b>"
+      - name: "<b>en M'Rad Imane </b>"
         first: "<b> B</b>"
         role: "SV student 🧪🏀"
-      - name: "<b> ormann Alexia </b>"
+      - name: "<b>ormann Alexia </b>"
         first: "<b> D</b>"
         role: "SV student🧬🐈"
-      - name: "<b> ifak Imane </b>"
+      - name: "<b>ifak Imane </b>"
         first: "<b> W</b>"
         role: "SV student 🔬🌊"
-      - name: "<b> affei Theo </b>"
+      - name: "<b>affei Theo </b>"
         first: "<b> M</b>"
         role: "SV student 🥽🍝"
 
