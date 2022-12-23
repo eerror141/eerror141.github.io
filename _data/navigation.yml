@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   nav:
     - title: "Introduction"
       section: introduction
-    - title: "Glimpse of data"
+    - title: "Glimpse into data"
       section: glimpse
     - title: "NLP pipeline"
       section: story-ex
