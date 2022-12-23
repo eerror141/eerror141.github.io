@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: 
     section: introduction
     
-  Glimpse of data:
+  Glimpse into data:
     title: 
     section: glimpse
   
@@ -55,7 +55,6 @@ en: &DEFAULT_EN
         role: "SV student 🧬"
 
   footer:
-    legal: "Privacy Policy"
     social:
       #- url: https://twitter.com
         #icon: "fab fa-twitter"
