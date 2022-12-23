@@ -4,7 +4,7 @@ Correct italic sentences!
 
 Add plot showing 2021 graphs ✅
 
-## **A Glimpse of our data...**
+## **A Glimpse of our data...**  or into our data ??
 
 Data in numbers (# movies, # charc F, #charc M) ✅
 
