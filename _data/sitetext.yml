@@ -41,18 +41,18 @@ en: &DEFAULT_EN
     text:
     section: team
     people:
-      - name: "en M'Rad Imane"
-        first: "B"
-        role: "SV student 🧪"
-      - name: "ormann Alexia"
-        first: "D"
-        role: "SV student 💻🧬"
-      - name: "ifak Imane"
-        first: "W"
-        role: "SV student 🔬📊"
-      - name: "affei Theo"
-        first: "M"
-        role: "SV student 🧬"
+      - name: "<b> en M'Rad Imane </b>"
+        first: "<b> B </b>"
+        role: "SV student 🧪🏀"
+      - name: "<b> ormann Alexia </b>"
+        first: "<b> D </b>"
+        role: "SV student 🐈🧬"
+      - name: "<b> ifak Imane </b>"
+        first: "<b> W </b>"
+        role: "SV student 🔬🌊"
+      - name: "<b> affei Theo </b>"
+        first: "<b> M </b>"
+        role: "SV student 🍝🧬"
 
   footer:
     social:
