@@ -14,10 +14,13 @@ Secondly, across the years, a decrease in activeness of male characters seems to
 By only doing this naive analysis, one might think that our initial hypothesis is incorrect. Indeed, this value seems to indicate that women and men in movies are portrayed to do active actions equally. However, it is important to realize that not all actions are equivalent. For example the two following sentences are both in the active voice, but have completely different level of “activeness” for the associated characters:<br>
 <em>“Sophie fell in love with him at first sight.”</em> or <em>“Mark rushed to her rescue.”</em></p>
 		{% include activeness_decade.html %}
-		<h4 style="padding-left:55px; padding-right:55px; padding-bottom: 30px"; align="justify;">  <b>What do male and female characters actually do? </b> </h4>	
+		<h4 style="padding-left:55px; padding-right:55px; padding-bottom: 30px"; align="justify";>  <b>What do male and female characters actually do? </b> </h4>	
+		<p style="padding-left:55px; padding-right:55px"; align="justify";> As mentioned above, the context and underlying meaning of verbs is crucial to investigate the portrayal of characters. However our NLP pipeline does not keep the context of each verb. Therefore, it is impossible using computational methods to identify interesting clusters in the top occurring verbs without the context. Upon further analysis of the most frequent verbs, we identified three meaningful clusters. Indeed, it appears that a lot of the verbs are linked to violent actions, romantic relationships, and powerful actions. Moreover, these clusters are particularly meaningful as the propensity of each is different for female and male characters. 
+Once these clusters were obtained, we counted the number of verbs and gave a score to each verb based on its number of occurrences. The higher its occurrences, the higher the score. 
+ </p>
 		{% include clusters_table_good.html %}
-		<p style="padding-left:55px; padding-right:55px"; align="justify";> ... </p>
-		<div> <img src="assets/img/table_NLP.jpg" alt="Table with extraction of active and passive verbs" style="width:750px;height:auto;"> </div>
+		<p style="padding-left:55px; padding-right:55px"; align="justify";> We can see that the stereotypical gender behaviour are indeed also present in the summaries. In fact, men have a high score in violence and power whereas women have a high score in love. Interestingly women have a relatively low score in violence in the active actions, female characters receive a lot of violence in the passive form. This is certainly due to the fact that in many plotlines women are victims of the violence and not the offenders. </p>
+		<div> <img src="assets/img/clusters_img.jpg" alt="Table with extraction of active and passive verbs" style="width:750px;height:auto;"> </div>
 		</center>
 	</div>
 </section>
