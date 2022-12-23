@@ -3,16 +3,20 @@
 	<div class="container">
 		<center>
 		<h1 style= "padding-bottom: 10px"> 📊 <b>Data Analysis </b></h1>
-		<h4 style="padding-left:55px; padding-right:55px"; align="justify">  <b>Are female characters in CMU metadata mentioned also in the movie plots? </b> </h4>
-		<p style="padding-left:55px; padding-right:55px"; align="justify"> Previously, we noticed that the fraction of female characters in movie metadata is much smaller compared to the fraction of male characters. Despite there seems to be an increase of the fraction of female characters between the 70s and 2010, this difference was still around 35% in 2010. <br>
-We thus aimed to analyze if this difference is also present in the movie plots. Indeed, a character may be present in the list of all characters of a movie, nevertheless this does not mean that the character is also mentioned in the summary of the movie. It could be possible that a female character might be listed in the movie characters but might not appear in the plot. 
-As we can observe below, the fraction of female characters mentioned in the analyzed plots is around 35%. This shows and confirms what we claimed above in the glimpse of data section. Indeed, an inequality between mentions of female and male characters in the plots exists. In addition, it can be noticed no statistically significant difference  between the 40s and 2010. 
-Therefore, a difference in mentions between female and male characters exists and this difference also confirms the minor amount of female characters in all films. 
+		<h4 style="padding-left:55px; padding-right:55px"; align="justify">  <b>Are female characters in the CMU metadata also mentioned also in the movie summaries? </b> </h4>
+		<p style="padding-left:55px; padding-right:55px"; align="justify"> Previously, we noticed that the fraction of female characters in movie metadata is much smaller compared to the fraction of male characters. Even though there seems to be an increase of the fraction of female characters between the 70s and 2010, this fraction was still around 35% in 2010 which is far from parity.<br>
+Therefore, we wished to analyze if this difference is also present in the movie summaries. Indeed, a character may be present in the list of all characters of a movie, however it does not mean that the character is also mentioned in the summary of the movie as it could just be the housekeeper which appears only once in the movie and is not important for the story. Indeed, one can assume that the characters mentioned in the summaries are quite important for the story and have a certain contribution to its development and especially the ones mentioned several times.<br>
+As we can observe below, the fraction of mentions of characters in the summaries is around 35%. This value is very similar to the one computed in the CMU character metadata. Thus, it confirms that female characters are underrepresented and seem to have overall less importance compared to men. In addition, no statistically significant evolution has occurred between the 40s and 2010. In fact, the calculated fraction has remained relatively constant.
+ 
  </p>
 		{% include mentions_decade.html %}
+		<p style="padding-left:55px; padding-right:55px"; align="justify"> In order to analyze the activeness of the characters, we extracted all the verbs related to them and defined if the action was done by the character (active) or done to them (passive). <br>
+At first glance of the graph, one might think that the men are more often described as doing things, e.g using the active voice. Indeed, the difference in activeness score among male and female characters is always positive through the years. However, the magnitude of this difference is very small (around 3-5%). 
+Secondly, across the years, a decrease in activeness of male characters seems to appear. There is a statistical significant difference but its effect is very small, almost negligible.<br>
+By only doing this naive analysis, one might think that our initial hypothesis is incorrect. Indeed, this value seems to indicate that women and men in movies are portrayed to do active actions equally. However, it is important to realize that not all actions are equivalent. For example the two following sentences are both in the active voice, but have completely different level of “activeness” for the associated characters:<br>
+<em>“Sophie fell in love with him at first sight.”</em> or <em>“Mark rushed to her rescue.”</em></p>
 		{% include activeness_decade.html %}
-		<p style="padding-left: 55px; padding-right: 55px"; align="justify"> Comment both graphs </p>
-		<h4 style="padding-left:55px; padding-right:55px; padding-bottom: 30px"; align="justify">  <b>What do female characters actually do? </b> </h4>	
+		<h4 style="padding-left:55px; padding-right:55px; padding-bottom: 30px"; align="justify">  <b>What do male and female characters actually do? </b> </h4>	
 		{% include clusters_table_good.html %}
 		</center>
 	</div>
